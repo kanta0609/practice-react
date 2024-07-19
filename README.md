@@ -1,4 +1,4 @@
-# made a tic-tac-toe
+# Made a tic-tac-toe
 
 This is my first time to make a web game App using React
 
