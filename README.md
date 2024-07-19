@@ -7,3 +7,7 @@ This is a game for 2 players
 1. Click the square alternately
 2. When you click a square, a symbol X or O will be added alternately.
 3. Try to fill one column with the same symbol, X or O.
+
+
+### Quote
+[React Homepage](https://ja.react.dev/learn/tutorial-tic-tac-toe)
